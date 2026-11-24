@@ -721,6 +721,13 @@
     "available": true
   },
   {
+    "name": "<![CDATA[Батарея CHASING M2PRO 300 Вт*г]]>",
+    "vendor": "Chasing.RT.00003</vendorCode>\n    <vendor>CHASING",
+    "priceText": "74999 UAH",
+    "picture": "https://b2b.robotics-distribution.com/content/images/21/39576308340687_+9467b6665a.jpg",
+    "available": true
+  },
+  {
     "name": "<![CDATA[Механічний маніпулятор Chasing Grabber Claw 2 Sediment sampler]]>",
     "vendor": "Chasing.RT.00015</vendorCode>\n    <vendor>CHASING",
     "priceText": "21999 UAH",
@@ -830,13 +837,6 @@
     "vendor": "ZMM100-Combo1-EU</vendorCode>\n    <vendor>EcoFlow",
     "priceText": "135999 UAH",
     "picture": "https://b2b.robotics-distribution.com/content/images/39/67689547054681_+9f1e1b9d99.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Комплект енергонезалежності EcoFlow Power Independence Kit (Без Батарей та генератора)]]>",
-    "vendor": "ZMM100-Combo3-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "184999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/41/54864415172774_+dc07017422.png",
     "available": true
   }
 ]
