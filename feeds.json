@@ -1,5 +1,677 @@
 [
   {
+    "name": "Смартфон RugOne Xever 8 Sand dune (256Gb)",
+    "vendor": "RugOne",
+    "priceText": "18999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/0a71c156-58ef-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядний пристрій EcoFlow RAPID Pro Charger 100W",
+    "vendor": "EcoFlow",
+    "priceText": "1967,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/b25c8412-07eb-11f1-80ae-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Додаткова батарея EcoFlow STREAM AC Pro",
+    "vendor": "EcoFlow",
+    "priceText": "52999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/ccb8d6c8-e1fe-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Смартфон RugOne Xever 8 Black (128Gb)",
+    "vendor": "RugOne",
+    "priceText": "23999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/125cd4f1-58ef-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee ST5 Pro",
+    "vendor": "Navee",
+    "priceText": "39999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c98dab6f-59c7-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee ST5 Pro",
+    "vendor": "Navee",
+    "priceText": "39999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c98dab6f-59c7-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Повербанк EcoFlow RAPID Mag Power Bank 5000mAh чорний",
+    "vendor": "EcoFlow",
+    "priceText": "2828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9a41c699-07eb-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Розподільна панель акумулятора з підставкою EcoFlow PowerOcean Plus Battery Junction",
+    "vendor": "EcoFlow",
+    "priceText": "56999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/10db668f-6006-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 1000 Air",
+    "vendor": "EcoFlow",
+    "priceText": "28999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/5625c11a-5e95-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 1000 Air",
+    "vendor": "EcoFlow",
+    "priceText": "28999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/5625c11a-5e95-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 Ultra Plus",
+    "vendor": "EcoFlow",
+    "priceText": "134999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/7eb02c0a-9fa5-11f1-80bf-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee G5 Max",
+    "vendor": "Navee",
+    "priceText": "23999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c437fd76-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee G5 Max",
+    "vendor": "Navee",
+    "priceText": "23999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c437fd76-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Система енергонезалежності EcoFlow STREAM Ultra X",
+    "vendor": "EcoFlow",
+    "priceText": "77999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/033ef9aa-84d7-11f1-80ba-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сонячна панель JW-HD108N 500W",
+    "vendor": "JOLYWOOD",
+    "priceText": "5300,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція EcoFlow DELTA Lite (Stream Pro)",
+    "vendor": "EcoFlow",
+    "priceText": "52999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/4aaff899-daec-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Автомобільна зарядна станція EcoFlow Alternator Charger",
+    "vendor": "EcoFlow",
+    "priceText": "10999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/3a7665ce-afe6-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-20kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "251999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e882aa67-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Кабель для зєднання EcoFlow STREAM Parallel Cable",
+    "vendor": "EcoFlow",
+    "priceText": "1045,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/29489c82-5f2b-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Сонячна панель JW-HD96N 460W",
+    "vendor": "JOLYWOOD",
+    "priceText": "4770,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Комплект енергонезалежності Independence Kit ( Power Kits Combo 3 )  (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "184999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/f7c92ac2-087f-11f1-80ae-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Літій-іонний акумулятор  Power Kits Battery 5120Wh - (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "233999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/dae33e1a-b0d8-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Вогнетривка сумка Scooter Fireproof Bag",
+    "vendor": "Navee",
+    "priceText": "5972,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c9036e11-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Вогнетривка сумка Scooter Fireproof Bag",
+    "vendor": "Navee",
+    "priceText": "5972,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c9036e11-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шина NavRollergy Tire Ultra",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c20c-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шина NavRollergy Tire Ultra",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c20c-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сонячний капелюх EcoFlow Power Hat-М-L",
+    "vendor": "EcoFlow",
+    "priceText": "3504,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/63cb81bc-aff1-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Шолом Scooter Helmet (L)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fee97-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шолом Scooter Helmet (L)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fee97-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X PRO",
+    "vendor": "Hypershell",
+    "priceText": "47999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/2e249184-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-25kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "262999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/f7c92b2c-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Повербанк EcoFlow RAPID Magnetic Power Bank 5000 Black",
+    "vendor": "EcoFlow",
+    "priceText": "2459,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6626bfd4-afed-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Інвертор Ecoflow Power Hub 5kVA",
+    "vendor": "EcoFlow",
+    "priceText": "178999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/20ae7a93-6006-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Смартфон RugOne Xever 7",
+    "vendor": "RugOne",
+    "priceText": "20999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/79491c0d-58ee-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Смартфон RugOne Xever 7",
+    "vendor": "RugOne",
+    "priceText": "20999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/79491c0d-58ee-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Комплект водонепроникний AeroFlex Kit - AquaTex",
+    "vendor": "Hypershell",
+    "priceText": "8957,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e09d6e3c-5901-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Кондиціонер EcoFlow Wave 3",
+    "vendor": "EcoFlow",
+    "priceText": "55999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d9245fc4-aff1-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Pro",
+    "vendor": "Navee",
+    "priceText": "24999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Pro",
+    "vendor": "Navee",
+    "priceText": "24999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Батарея для екзоскелету Standard Battery",
+    "vendor": "Hypershell",
+    "priceText": "4823,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/a64c1c68-5902-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Мікроінвертор EcoFlow PowerStream 600W EU ( EcoFlow )",
+    "vendor": "EcoFlow",
+    "priceText": "5595,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/ffab2bb2-afec-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сидіння для скутера NAVEE Scooter Seat（GT/ST）",
+    "vendor": "Navee",
+    "priceText": "6094,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c17e-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сидіння для скутера NAVEE Scooter Seat（GT/ST）",
+    "vendor": "Navee",
+    "priceText": "6094,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c17e-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee NT5 Max",
+    "vendor": "Navee",
+    "priceText": "33999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/bc8b2183-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee NT5 Max",
+    "vendor": "Navee",
+    "priceText": "33999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/bc8b2183-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядний пристрій для екзоскелета Charging Hub",
+    "vendor": "Hypershell",
+    "priceText": "3127,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9d21c2d5-5902-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Система управління енергоспоживанням будинку EcoFlow Power Insight Monitor",
+    "vendor": "EcoFlow",
+    "priceText": "21999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9fa1c634-b0d8-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Розумна розетка EcoFlow Smart Plug EU ( EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "2213,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cb52728f-5f1f-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Комплект AeroFlex Kit- Nylon",
+    "vendor": "Hypershell",
+    "priceText": "6466,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/2ef66aa7-59c6-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сумка 4L Scooter Hang bag",
+    "vendor": "Navee",
+    "priceText": "914,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c236cec5-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сумка 4L Scooter Hang bag",
+    "vendor": "Navee",
+    "priceText": "914,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c236cec5-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT3 Max",
+    "vendor": "Navee",
+    "priceText": "22999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d29bdbc5-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT3 Max",
+    "vendor": "Navee",
+    "priceText": "22999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d29bdbc5-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Холодильник EcoFlow Glacier Classic 35L",
+    "vendor": "EcoFlow",
+    "priceText": "42999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/3551ca29-afef-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee E25 Pro",
+    "vendor": "Navee",
+    "priceText": "14999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d8943a51-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee E25 Pro",
+    "vendor": "Navee",
+    "priceText": "14999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d8943a51-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X Ultra",
+    "vendor": "Hypershell",
+    "priceText": "80999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c3190cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X Ultra",
+    "vendor": "Hypershell",
+    "priceText": "80999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c3190cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Мікроінвертор EcoFlow Stream 2",
+    "vendor": "EcoFlow",
+    "priceText": "9999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/f9320bd9-afec-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Смартфон RugOne Xever 8 Black (256 Gb)",
+    "vendor": "RugOne",
+    "priceText": "18999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/0a71c003-58ef-11f1-80b8-0050568715c8.jpeg",
+    "available": true
+  },
+  {
+    "name": "Тримач для телефону Scooter Phone Holder",
+    "vendor": "Navee",
+    "priceText": "914,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d67a8349-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Тримач для телефону Scooter Phone Holder",
+    "vendor": "Navee",
+    "priceText": "914,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d67a8349-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Інвертор EcoFlow PowerOcean PV Storage Converter арт.PowerOcean-PVStorageConver ter-5Kw",
+    "vendor": "EcoFlow",
+    "priceText": "85999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e6dc5dbb-ab73-11f1-80bf-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 PLUS (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "52999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/41ddffec-daec-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee G5 Pro",
+    "vendor": "Navee",
+    "priceText": "21999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cf4d67f9-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee G5 Pro",
+    "vendor": "Navee",
+    "priceText": "21999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cf4d67f9-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Гібридний інвертор EcoFlow PowerOcean Hybrid Inverter-P1-5kW-EU",
+    "vendor": "EcoFlow",
+    "priceText": "78999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/fd942006-087f-11f1-80ae-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція Rapid Pro 320W station",
+    "vendor": "EcoFlow",
+    "priceText": "9999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/4f52b64b-afed-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Літій-іонний акумулятор Power Kits Batterry 2048Wh (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "104999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/730fa2b4-d3ae-11f0-80a9-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Max",
+    "vendor": "Navee",
+    "priceText": "29999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/bfe7f501-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Max",
+    "vendor": "Navee",
+    "priceText": "29999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/bfe7f501-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Додатковий акумулятор EcoFLow DELTA Pro 3 Extra Battery",
+    "vendor": "EcoFlow",
+    "priceText": "153999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/55190705-d3ae-11f0-80a9-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція EcoFlow DELTA 3 Max",
+    "vendor": "EcoFlow",
+    "priceText": "79999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/1b763c35-d56c-11f0-80aa-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Кабель підключення батарей до інвентора Power Kit ( LB-CONT-1.5m  EcoFlow LFP Battery Power Cable)",
+    "vendor": "EcoFlow",
+    "priceText": "7931,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/52ddd34c-07ee-11f1-80ae-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Дзеркало заднього виду Rearview Mirror",
+    "vendor": "Navee",
+    "priceText": "426,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c236cdef-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Дзеркало заднього виду Rearview Mirror",
+    "vendor": "Navee",
+    "priceText": "426,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c236cdef-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 EU (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "52999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cb1efccd-dc7e-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlowPowerOcean-Inverter-P3-10kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "125999,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Сонячна панель JW-HD132N 630W",
+    "vendor": "JOLYWOOD",
+    "priceText": "5989,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlowPowerOceanInverter-P3-12kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "132999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e09a3d02-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Занурювальний водонагрівач EcoFlow PowerGlow  Smart Emmersion Heater 3,5 kW",
+    "vendor": "EcoFlow",
+    "priceText": "37999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/efdd14d8-600b-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow Plus Hybrid Inverter-P3-15kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "239999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e1c1ee8f-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція для електромобіля Ecoflow PowerPulse EV Charger",
+    "vendor": "EcoFlow",
+    "priceText": "31999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/628db757-07ed-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Літій-іонний акумулятор Portable Air Conditioner-WAVE 2 Battery Pack(EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "55999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e52ab139-aff1-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Акумуляторна батарея до кондиціонера EcoFlow Wave 3",
+    "vendor": "EcoFlow",
+    "priceText": "28999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/3395efc3-aff1-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X Carbon",
+    "vendor": "Hypershell",
+    "priceText": "58999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/5e4c0145-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Морозозстійкий акумулятор для екзоскелету Anti-Cold Battery",
+    "vendor": "Hypershell",
+    "priceText": "6307,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/85be806e-5902-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X GO",
+    "vendor": "Hypershell",
+    "priceText": "37999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/652bb5cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Розподільна панель акумулятора з підстав\nкою для акумулятора EcoFlow Power Ocean\nBattery Junction Box and Battery Base-P3-10kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "41999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/83cea1e5-aff1-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шолом  Scooter Helmet (M)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fefeb-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шолом  Scooter Helmet (M)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fefeb-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Додаткова батарея EcoFlow DELTA 3 Extra Battery",
+    "vendor": "EcoFlow",
+    "priceText": "36999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/50b44bd0-daec-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Розумний лічильник Smart Meter 120А",
+    "vendor": "EcoFlow",
+    "priceText": "2398,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c1f7cb29-6401-11f1-80b9-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Дитячий шолом Kids Helmet",
+    "vendor": "Navee",
+    "priceText": "1340,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9d145149-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Дитячий шолом Kids Helmet",
+    "vendor": "Navee",
+    "priceText": "1340,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9d145149-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-29.9kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "269999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/05e324fc-0880-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
     "name": "<![CDATA[Кабель EcoFlow Solar Connector Solar Extension Cable]]>",
     "vendor": "EFMC4-3m</vendorCode>\n    <vendor>EcoFlow",
     "priceText": "3013 UAH",
@@ -165,678 +837,6 @@
     "vendor": "ZMM100-Combo3-EU</vendorCode>\n    <vendor>EcoFlow",
     "priceText": "184999 UAH",
     "picture": "https://b2b.robotics-distribution.com/content/images/41/54864415172774_+dc07017422.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Акумуляторна батарея EcoFlow Power Kit 2 kWh]]>",
-    "vendor": "ZMM100BP2</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "104999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/42/42795964160714_+08cb34f39a.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Акумуляторна батарея EcoFlow Power Kit 5 kWh]]>",
-    "vendor": "ZMM100BP5</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "233999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/43/19755180877834_+0108e7c1a6.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Монітор EcoFlow Power Kit]]>",
-    "vendor": "ZMM100MT</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "21999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/45/30768920937736_+815f54401f.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Адаптер заряду Power Hub AC Charge Adapter]]>",
-    "vendor": "EFA-Plug-AC</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1537 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/48/49565510243386_+3580dba85c.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель Power Hub Solar Charge Cable (6 metres/20 feet/10AWG)]]>",
-    "vendor": "LPV-B-6m</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "5472 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/1/23082556271170_+e24fa296d8.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кріплення 2kWh LFP Battery Mounting Strap]]>",
-    "vendor": "AFRB-MM100BP2</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "3013 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/8/54307210640186_+3387cbaef1.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кріплення 5kWh LFP Battery Mounting Strap]]>",
-    "vendor": "AFRB-MM100BP5</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "3013 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/11/96768624440475_+867dbb2451.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Cистема кріплень EcoFlow Rigid Solar Panel Mounting Feet]]>",
-    "vendor": "AKIT-MS331</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "553 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/29/40031806833624_+66b671f94f.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Акумулятор до кондиціонера EcoFlow Wave 2]]>",
-    "vendor": "ZYDKT210-EB</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "55999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/1/97584733807358_+7072e0644d.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Набір для підмітання газону до газонокосарки EcoFlow Blade]]>",
-    "vendor": "ZMH100LY-B</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "34999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/4/35904180617926_+0a411645ca.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Набір колеса та ручка для холодильника EcoFlow Glacier]]>",
-    "vendor": "EFA-GlacierMRW-MRL</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "7316 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/6/81007411848494_+6fba8abd55.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Розумна розетка EcoFlow Smart Plug]]>",
-    "vendor": "EFA-SmartPlug-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2213 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/7/19839025513146_+c6b6fa6e9e.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Мікроінвертор EcoFlow PowerStream 600W]]>",
-    "vendor": "EFPowerStreamMI-EU-600W</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "5595 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/8/42646743858561_+8c6c5cc990.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[AC кабель для підключення мікроінвертора до мережі - 3 метра]]>",
-    "vendor": "EFL-BKWAC-3m-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1783 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/13/77196185764295_+083d1b89a6.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[AC кабель для підключення мікроінвертора до мережі - 5 метрів]]>",
-    "vendor": "EFL-BKWAC-5m-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2398 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/14/87040807070012_+10b5676bad.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Батарея CHASING M2PROMAX 300 Вт*г]]>",
-    "vendor": "Chasing.RT.00005</vendorCode>\n    <vendor>CHASING",
-    "priceText": "74999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/18/84693032742555_+5871e7ec07.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Механічна лебідка CHASING Reel з кабелем 400м (Сумісна M2 PRO MAX)]]>",
-    "vendor": "Chasing.RT.00010</vendorCode>\n    <vendor>CHASING",
-    "priceText": "79999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/23/96081300780751_+65470c9712.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Система кріплень для сонячних панелей Balcony Hook Kit]]>",
-    "vendor": "EFA-PTSP300Hook</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "3873 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/25/97544477619368_+d226ffd534.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Рюкзак до Gladius mini S Backpack]]>",
-    "vendor": "Chasing.RT.00067</vendorCode>\n    <vendor>CHASING",
-    "priceText": "11999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/44/49917934766396_+baf39d5cdc.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Модуль -приманка Chasing F1 Bait Boat]]>",
-    "vendor": "Chasing.RT.00069</vendorCode>\n    <vendor>CHASING",
-    "priceText": "6837 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/46/66227856614814_+f6435b2ae8.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Пульт керування CHASING RC 3B]]>",
-    "vendor": "Chasing.RT.00070</vendorCode>\n    <vendor>CHASING",
-    "priceText": "13999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/47/47282765432110_+c5bee9ede2.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Сумка EcoFlow RIVER 2 Bag]]>",
-    "vendor": "BZMR600</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2644 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/11/23967574512690_+47c318106f.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель Power Hub to Smart Home Panel]]>",
-    "vendor": "LHUBTOBC-B-1.5m</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "5472 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/12/kabel-power-hub-to-smart-home-panel-57468849091050_+b0cbfa42a3.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Шина з'єднувальна для акумуляторноі батареї EcoFlow Power Kit]]>",
-    "vendor": "ABusbar-MM100BP5</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "3443 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/14/84925913414797_+3420f6ca28.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Автоматичний сонячний трекер EcoFlow Single Axis Solar Tracker для сонячної панелі на 400 Вт]]>",
-    "vendor": "EFSAST</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "16999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/17/11137646318482_+dd140fce92.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Підводний дрон CHASING DORY FLASH PACK]]>",
-    "vendor": "6971636381815</vendorCode>\n    <vendor>CHASING",
-    "priceText": "32999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/35/56297819741317_+1b95c77b20.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[CHASING M2 S Universal Edition 100m]]>",
-    "vendor": "6971636382454</vendorCode>\n    <vendor>CHASING",
-    "priceText": "164999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/39/92233434530334_+0b225578ec.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[CHASING M2 S Universal Edition 200m]]>",
-    "vendor": "6971636382461</vendorCode>\n    <vendor>CHASING",
-    "priceText": "174999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/40/62161909847871_+7ea3afaeb2.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Камера KanDao Meeting Ultra Standard]]>",
-    "vendor": "MT1002</vendorCode>\n    <vendor>KanDao",
-    "priceText": "79999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/41/18787732985515_+21e8d5ad41.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Камера Kandao Meeting Ultra 4K 360 video conference host with dual screen (MT1001)]]>",
-    "vendor": "MT1001</vendorCode>\n    <vendor>KanDao",
-    "priceText": "153999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/42/18479614842946_+8b5a5f78e9.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Квадрокоптер DJI P4 Multispectral (CP.AG.00000207.01)]]>",
-    "vendor": "CP.AG.00000207.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "259999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/36/40905335457990_+f1ea59462b.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Інтеллектуальна батарея DJI Mavic 3 Intelligent Flight Battery]]>",
-    "vendor": "CP.MA.00000423.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "7600 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/28/mavic-3-intelligent-flight-battery-41650044101195_+75a5781967.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Сумка EcoFlow Glacier Bag]]>",
-    "vendor": "EFB-Glacier</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "4918 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/45/44795005378196_+373ec7de3e.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Універсальне кріплення під сонячні панелі Adjustable Tilt Mount Bracket]]>",
-    "vendor": "AA-frame-Tilt</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "20999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/46/72282493389810_+042258904f.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кріплення під сонячні панелі 100 Вт Tilt Mount Bracket]]>",
-    "vendor": "AA-frame-28in</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "3443 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/48/94878529683770_+d4a4e9ca15.jpeg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow Power Ocean 10 kWh (трифазний)]]>",
-    "vendor": "PowerOcean-Inverter-P3-10kW-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "125999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/1/15811882580863_+3b908e4c08.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Блок підключення батарей до інвертора EcoFlow Power Ocean - Junction Box]]>",
-    "vendor": "Base&amp;Junction Box-P3-10kW-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "41999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/2/44121226277685_+66c6f3afb8.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Автомобільний інвертор для портативних зарядних станцій EcoFlow Alternator Charger]]>",
-    "vendor": "EFAlternatorCharger-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "10999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/13/80000003185-69078346008322_+a84fed0baa.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Тепловий насос EcoFlow PowerHeat 20 KW]]>",
-    "vendor": "PowerHeat-HeatPump-20kW-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "776999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/15/80000003201-38179714808745_+d13c9ef90c.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Розумний нагрівач EcoFlow PowerGlow 3.5 KW]]>",
-    "vendor": "PowerGlow-3.5kW-P3-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "37999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/18/85047047701739_+66be4ea9f9.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow Power Ocean 12 kWh (трифазний)]]>",
-    "vendor": "PowerOcean-Inverter-P3-12kW-DF</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "132999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/19/73713411640568_+24ab077f71.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow Power Ocean 5 kWh однофазний]]>",
-    "vendor": "PowerOcean-Inverter-P1-5kW-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "78999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/22/80000003192-76150905652671_+e2c4a41796.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядна станція для електромобіля EcoFlow PowerPulse]]>",
-    "vendor": "PowerPulse-EvCharger-11kw-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "31999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/31/62941258141740_+143b6e6362.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Підставка для акумуляторів EcoFlow PowerOcean Battery Base]]>",
-    "vendor": "EF-BatteryBase-DCFit</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "8915 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/32/82079999642617_+192cc04090.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Система накопичення енергії EcoFlow PowerOcean DC Fit]]>",
-    "vendor": "PowerOcean-PVStorageConverter-5kw</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "85999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/33/91137665606548_+6205edb6d1.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Система розумний будинок EcoFlow PowerInsight]]>",
-    "vendor": "EFPowerInsight-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "21999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/34/91147763094622_+b2782e0a5c.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Сонячний капелюх EcoFlow Power Hat 12 Вт - Чорна L-XL]]>",
-    "vendor": "EFPowerHat-L-XL</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "3504 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/47/46137489512034_+a4df98b588.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядна станція EcoFlow RIVER 3 Plus]]>",
-    "vendor": "EFRIVER3Plus-EU-CBOX</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "18999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/50/64487837058367_+c9164dafe4.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядна станція EcoFlow DELTA 3]]>",
-    "vendor": "EFDELTA3-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "52999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/4/92295446560586_+2643dbc050.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядна станція EcoFlow DELTA 3 Plus]]>",
-    "vendor": "EFDELTA3P-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "52999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/5/86405485916640_+05ecc9f616.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Додаткова батарея EcoFlow DELTA 3 Extra Battery]]>",
-    "vendor": "EFDELTA3P-EB</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "36999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/7/53459778506654_+b1991e5806.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Повербанк EcoFLow RAPID Magnetic Power Bank 5000 Black]]>",
-    "vendor": "EF-RAPID5000-B-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2459 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/8/74646625966066_+e554cdbf53.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow PowerOcean Plus 15 кВт⋅год (трифазний)]]>",
-    "vendor": "PowerOcean Plus-INV-15kW-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "239999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/11/90000000045-26687326187675_+07671a2636.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow PowerOcean Plus 20 кВт⋅год (трифазний)]]>",
-    "vendor": "PowerOcean Plus-INV-20kW-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "251999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/12/90000000046-31555182890696_+31595acde7.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow PowerOcean Plus 25 кВт⋅год (трифазний)]]>",
-    "vendor": "PowerOcean Plus-INV-25kW-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "262999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/13/90000000047-83218220619999_+5b92541d8f.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Гібридний інвертор EcoFlow PowerOcean Plus 30 кВт⋅год (трифазний)]]>",
-    "vendor": "PowerOcean Plus-INV-29.9kW-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "269999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/14/90000000048-54440524937291_+3d62e772be.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Блок підключення батарей до інвертора EcoFlow PowerOcean Plus Battery Junction Box]]>",
-    "vendor": "Base&amp;Junction Box-Plus-P3-DE</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "56999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/15/90000000049-62990017726184_+af24c73aca.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Додаткова батарея EcoFLow DELTA Pro 3 Extra Battery]]>",
-    "vendor": "EFDELTAPRO3EB</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "153999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/16/90000000050-11747180285649_+9b99a6a8e2.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Nozzle (05-002-01768)]]>",
-    "vendor": "05-002-01768</vendorCode>\n    <vendor>XAG",
-    "priceText": "12130 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/8/90000000143-50942118212300_+875c8f5cbd.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Права посадкова опора XAG для бака рідини (02-002-10890)]]>",
-    "vendor": "02-002-10890</vendorCode>\n    <vendor>XAG",
-    "priceText": "10294 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/26/90000000211-75540932964983_+faf98dcef5.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Мікроінвертор EcoFlow Stream 2]]>",
-    "vendor": "EFStreamMI800W+DIY5M+PV3M*4</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "9999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/44/31432576934655_+72adc1ad5b.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядна станція DELTA Lite (1.92 кВт·год) (Stream Pro)]]>",
-    "vendor": "EFSTREAMPRO800W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "52999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/45/efstreampro800w-uk-68291358361896_+b86811a920.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Додаткова батарея EcoFlow DELTA Lite AC]]>",
-    "vendor": "EFSTREAMACPro800W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "52999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/48/efstreamacpro800w-eu-56328199430970_+7e89df4d89.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[XAG APC2 Консоль автопілота (Міжнар.)]]>",
-    "vendor": "09-021-00011</vendorCode>\n    <vendor>XAG",
-    "priceText": "101999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/12/xag-apc2-konsol-avtopilota-mezhdunar.-38842171768124_+9aed3689a9.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Розумний лічильник Smart Meter]]>",
-    "vendor": "EFSMARTMETER-EU-120A</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2398 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/15/41695220306311_+53b2e6e36a.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Холодильник EcoFlow Glacier Classic 35L]]>",
-    "vendor": "EFGLACIER35L-EU-NBOX</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "42999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/2/32913705741761_+b8900c71c0.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Інвертор Ecoflow Power Hub 5kVA]]>",
-    "vendor": "EFMM305PowerHub-HV</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "178999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/4/35478686270939_+ba56161e97.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кондиціонер EcoFlow Wave 3]]>",
-    "vendor": "EFWAVE3-EU-Nbox</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "55999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/7/64622313827717_+7857e294bb.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель EcoFlow STREAM AC Cable (5m)]]>",
-    "vendor": "EFL-STREAM-AC-5M-EU-H</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1844 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/11/efl-stream-ac-5m-eu-h-41235758894051_+30bec2d3c2.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель EcoFlow STREAM Parallel Cable]]>",
-    "vendor": "EFL-STREAM-PARALLELAC-H</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1045 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/13/15005557850215_+392db959db.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket - Lattice Balcony]]>",
-    "vendor": "EFA-BKWLATTICEBAL-W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "4242 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/15/70925294458484_+49660e8dbe.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket - Concrete Balcony]]>",
-    "vendor": "EFA-BKWCONCRETEBAL-W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "9999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/16/83918560752575_+8366c35c23.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket - Flat Roof]]>",
-    "vendor": "EFA-BKWFLATROOF-W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "6087 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/17/89037302222619_+513ac35c78.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket - Facade]]>",
-    "vendor": "EFA-BKWFACADE-B-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1230 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/19/73842178940438_+e8eaf5d5cf.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket - Pitched Roof]]>",
-    "vendor": "EFA-BKWPITCHEDROOF-W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "9999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/20/89980237190407_+e93d00b3f1.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket Lightweight - Facade]]>",
-    "vendor": "EFA-BKWBRACKETLIGHT-B-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1230 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/21/73556540293291_+a37e451c9d.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[EcoFlow Bracket - Lightweight]]>",
-    "vendor": "EFA-BKWLIGHTWEIGHT-W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "9999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/22/51781330692185_+897a5f8ebd.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Акумулятор до кондиціонера EcoFlow Wave 3]]>",
-    "vendor": "EFWAVE3-EB</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "28999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/25/84868046951133_+c60d967acf.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель EcoFlow STREAM DIY Cable (1.5m)]]>",
-    "vendor": "EFL-STREAM-DIY-1.5M-UK-H</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1537 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/29/46644533327066_+ebc522ca15.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель EcoFlow STREAM DIY Cable (15m)]]>",
-    "vendor": "EFL-STREAM-DIY-15M-UK-H</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2459 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/30/20542983872656_+c9ef461cbc.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Квадрокоптер DJI Matrice 4T (CP.EN.00000546.02)]]>",
-    "vendor": "CP.EN.00000546.02</vendorCode>\n    <vendor>DJI",
-    "priceText": "219999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/43/76033968129084_+eb82d9f752.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Квадрокоптер DJI Matrice 4E (CP.EN.00000574.02)]]>",
-    "vendor": "CP.EN.00000574.02</vendorCode>\n    <vendor>DJI",
-    "priceText": "169999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/44/96302332082533_+6e701aacf7.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Квадрокоптер DJI Mavic 4 Pro (DJI RC 2)]]>",
-    "vendor": "CP.MA.00000849.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "75999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/45/16283337121918_+6a05980b74.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Акумулятор для дрона DJI Mavic 3 Enterprise Battery Kit (CP.EN.00000421.01)]]>",
-    "vendor": "CP.EN.00000421.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "25399 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/47/99641698259661_+c1c3e69bd6.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Модуль DJI Mavic 3 Enterprise Series RTK Module (CP.EN.00000417.01)]]>",
-    "vendor": "CP.EN.00000417.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "32999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/48/82050147512704_+c5cdb203e8.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Пропелери DJI Mavic 3 Enterprise Series (CP.EN.00000430.01)]]>",
-    "vendor": "CP.EN.00000430.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "1299 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/49/32222497028041_+907913ef8d.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Універсальний пристрій скиду корисного навантаження для DJI Mavic 3 / 3 Pro / 3T]]>",
-    "vendor": "5300000979</vendorCode>\n    <vendor>DJI",
-    "priceText": "1700 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/50/23764634171284_+21397f1a1a.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Акумулятор для дронів FPV 6S2P 8000 mAh]]>",
-    "vendor": "5300001005</vendorCode>\n    <vendor>ProDrone",
-    "priceText": "2999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/1/74173618799980_+4a1aba0e2c.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель Power Hub 5kVA Solar Charge Cable]]>",
-    "vendor": "EFL-MM305HUBPVIN-6m</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "6148 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/5/81976642954083_+5f4b7efd2b.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядна станція Rapid Pro 320W station]]>",
-    "vendor": "EF-STATION320W-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "9999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/22/82341994484775_+e6357c70e1.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Повербанк EcoFlow RAPID Mag Power Bank 5000mAh чорний]]>",
-    "vendor": "EF-RAPIDQI1-5K-B-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "2828 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/28/68538800960822_+f85d65e547.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Інвертор EcoFLow DELTA Pro ULTRA]]>",
-    "vendor": "EFDeltaProUltra-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "159999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/35/69749716736076_+820f5fb0d8.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядний пристрій EcoFlow RAPID Pro Charger 100W]]>",
-    "vendor": "EFA-100W-GAN-CHARGER-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "1967 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/39/57383170644079_+6b619a88ca.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Зарядний пристрій EcoFlow RAPID Pro Charger 140W]]>",
-    "vendor": "EFA-140W-GAN-CHARGER-EU</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "4918 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/40/87902900915528_+3d4480d0dc.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Квадрокоптер DJI Mavic 3M Enterprise Multispectral EU (CP.EN.00000444.01)]]>",
-    "vendor": "CP.EN.00000444.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "239999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/6/62842578065397_+69d8629d2c.jpg",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Квадрокоптер DJI Neo (CP.FP.00000184.01)]]>",
-    "vendor": "CP.FP.00000184.01</vendorCode>\n    <vendor>DJI",
-    "priceText": "15999 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/14/52795601384956_+2c412a9423.jpg",
     "available": true
   }
 ]
