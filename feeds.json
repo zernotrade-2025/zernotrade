@@ -245,174 +245,6 @@
     "available": true
   },
   {
-    "name": "Кондиціонер EcoFlow Wave 3",
-    "vendor": "EcoFlow",
-    "priceText": "55999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/d9245fc4-aff1-11f0-80a6-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee GT5 Pro",
-    "vendor": "Navee",
-    "priceText": "24999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee GT5 Pro",
-    "vendor": "Navee",
-    "priceText": "24999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Батарея для екзоскелету Standard Battery",
-    "vendor": "Hypershell",
-    "priceText": "4823,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/a64c1c68-5902-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Мікроінвертор EcoFlow PowerStream 600W EU ( EcoFlow )",
-    "vendor": "EcoFlow",
-    "priceText": "5595,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/ffab2bb2-afec-11f0-80a6-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 EU (EcoFlow)",
-    "vendor": "EcoFlow",
-    "priceText": "52999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/cb1efccd-dc7e-11f0-80ab-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Інвертор гібридний EcoFlowPowerOcean-Inverter-P3-10kW-DE",
-    "vendor": "EcoFlow",
-    "priceText": "125999,00 UAH",
-    "picture": "",
-    "available": true
-  },
-  {
-    "name": "Сонячна панель JW-HD132N 630W",
-    "vendor": "JOLYWOOD",
-    "priceText": "5989,00 UAH",
-    "picture": "",
-    "available": true
-  },
-  {
-    "name": "Інвертор гібридний EcoFlowPowerOceanInverter-P3-12kW-DE",
-    "vendor": "EcoFlow",
-    "priceText": "132999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e09a3d02-087f-11f1-80ae-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Занурювальний водонагрівач EcoFlow PowerGlow  Smart Emmersion Heater 3,5 kW",
-    "vendor": "EcoFlow",
-    "priceText": "37999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/efdd14d8-600b-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Інвертор гібридний EcoFlow Plus Hybrid Inverter-P3-15kW-DE",
-    "vendor": "EcoFlow",
-    "priceText": "239999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e1c1ee8f-087f-11f1-80ae-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Зарядна станція для електромобіля Ecoflow PowerPulse EV Charger",
-    "vendor": "EcoFlow",
-    "priceText": "31999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/628db757-07ed-11f1-80ae-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Літій-іонний акумулятор Portable Air Conditioner-WAVE 2 Battery Pack(EcoFlow)",
-    "vendor": "EcoFlow",
-    "priceText": "55999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e52ab139-aff1-11f0-80a6-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Акумуляторна батарея до кондиціонера EcoFlow Wave 3",
-    "vendor": "EcoFlow",
-    "priceText": "28999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/3395efc3-aff1-11f0-80a6-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Екзоскелет Hypershell X Carbon",
-    "vendor": "Hypershell",
-    "priceText": "58999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/5e4c0145-5901-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Морозозстійкий акумулятор для екзоскелету Anti-Cold Battery",
-    "vendor": "Hypershell",
-    "priceText": "6307,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/85be806e-5902-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Екзоскелет Hypershell X GO",
-    "vendor": "Hypershell",
-    "priceText": "37999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/652bb5cb-5901-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Розподільна панель акумулятора з підстав\nкою для акумулятора EcoFlow Power Ocean\nBattery Junction Box and Battery Base-P3-10kW-DE",
-    "vendor": "EcoFlow",
-    "priceText": "41999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/83cea1e5-aff1-11f0-80a6-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Шолом  Scooter Helmet (M)",
-    "vendor": "Navee",
-    "priceText": "1828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/6c1fefeb-58ee-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Шолом  Scooter Helmet (M)",
-    "vendor": "Navee",
-    "priceText": "1828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/6c1fefeb-58ee-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Розумний лічильник Smart Meter 120А",
-    "vendor": "EcoFlow",
-    "priceText": "2398,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/c1f7cb29-6401-11f1-80b9-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Дитячий шолом Kids Helmet",
-    "vendor": "Navee",
-    "priceText": "1340,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/9d145149-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Дитячий шолом Kids Helmet",
-    "vendor": "Navee",
-    "priceText": "1340,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/9d145149-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-29.9kW-DE",
-    "vendor": "EcoFlow",
-    "priceText": "269999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/05e324fc-0880-11f1-80ae-0050568715c8.jpg",
-    "available": true
-  },
-  {
     "name": "Кабель підключення батарей до інвентора Power Kit ( LB-CONT-1.5m  EcoFlow LFP Battery Power Cable)",
     "vendor": "EcoFlow",
     "priceText": "7931,00 UAH",
@@ -655,6 +487,174 @@
     "vendor": "Hypershell",
     "priceText": "8957,00 UAH",
     "picture": "https://storage.googleapis.com/dr_bckt/e09d6e3c-5901-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Кондиціонер EcoFlow Wave 3",
+    "vendor": "EcoFlow",
+    "priceText": "55999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d9245fc4-aff1-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Pro",
+    "vendor": "Navee",
+    "priceText": "24999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Pro",
+    "vendor": "Navee",
+    "priceText": "24999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Батарея для екзоскелету Standard Battery",
+    "vendor": "Hypershell",
+    "priceText": "4823,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/a64c1c68-5902-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Мікроінвертор EcoFlow PowerStream 600W EU ( EcoFlow )",
+    "vendor": "EcoFlow",
+    "priceText": "5595,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/ffab2bb2-afec-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 EU (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "52999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cb1efccd-dc7e-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlowPowerOcean-Inverter-P3-10kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "125999,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Сонячна панель JW-HD132N 630W",
+    "vendor": "JOLYWOOD",
+    "priceText": "5989,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlowPowerOceanInverter-P3-12kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "132999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e09a3d02-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Занурювальний водонагрівач EcoFlow PowerGlow  Smart Emmersion Heater 3,5 kW",
+    "vendor": "EcoFlow",
+    "priceText": "37999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/efdd14d8-600b-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow Plus Hybrid Inverter-P3-15kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "239999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e1c1ee8f-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція для електромобіля Ecoflow PowerPulse EV Charger",
+    "vendor": "EcoFlow",
+    "priceText": "31999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/628db757-07ed-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Літій-іонний акумулятор Portable Air Conditioner-WAVE 2 Battery Pack(EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "55999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e52ab139-aff1-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Акумуляторна батарея до кондиціонера EcoFlow Wave 3",
+    "vendor": "EcoFlow",
+    "priceText": "28999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/3395efc3-aff1-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X Carbon",
+    "vendor": "Hypershell",
+    "priceText": "58999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/5e4c0145-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Морозозстійкий акумулятор для екзоскелету Anti-Cold Battery",
+    "vendor": "Hypershell",
+    "priceText": "6307,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/85be806e-5902-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X GO",
+    "vendor": "Hypershell",
+    "priceText": "37999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/652bb5cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Розподільна панель акумулятора з підстав\nкою для акумулятора EcoFlow Power Ocean\nBattery Junction Box and Battery Base-P3-10kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "41999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/83cea1e5-aff1-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шолом  Scooter Helmet (M)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fefeb-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шолом  Scooter Helmet (M)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fefeb-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Розумний лічильник Smart Meter 120А",
+    "vendor": "EcoFlow",
+    "priceText": "2398,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/c1f7cb29-6401-11f1-80b9-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Дитячий шолом Kids Helmet",
+    "vendor": "Navee",
+    "priceText": "1340,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9d145149-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Дитячий шолом Kids Helmet",
+    "vendor": "Navee",
+    "priceText": "1340,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9d145149-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-29.9kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "269999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/05e324fc-0880-11f1-80ae-0050568715c8.jpg",
     "available": true
   },
   {
