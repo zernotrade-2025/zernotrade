@@ -658,20 +658,6 @@
     "available": true
   },
   {
-    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 2000 Air",
-    "vendor": "EcoFlow",
-    "priceText": "50999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/5d77ecb4-5e95-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 2000 Air",
-    "vendor": "EcoFlow",
-    "priceText": "50999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/5d77ecb4-5e95-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
     "name": "<![CDATA[Кабель EcoFlow Solar Connector Solar Extension Cable]]>",
     "vendor": "EFMC4-3m</vendorCode>\n    <vendor>EcoFlow",
     "priceText": "3013 UAH",
@@ -837,6 +823,20 @@
     "vendor": "LB-CONT-1.5m</vendorCode>\n    <vendor>EcoFlow",
     "priceText": "7931 UAH",
     "picture": "https://b2b.robotics-distribution.com/content/images/21/31899541062595_+e30b14854c.png",
+    "available": true
+  },
+  {
+    "name": "<![CDATA[Комплект енергонезалежності EcoFlow Power Get Set Kit (Без Батарей)]]>",
+    "vendor": "ZMM100-Combo1-EU</vendorCode>\n    <vendor>EcoFlow",
+    "priceText": "135999 UAH",
+    "picture": "https://b2b.robotics-distribution.com/content/images/39/67689547054681_+9f1e1b9d99.jpeg",
+    "available": true
+  },
+  {
+    "name": "<![CDATA[Комплект енергонезалежності EcoFlow Power Independence Kit (Без Батарей та генератора)]]>",
+    "vendor": "ZMM100-Combo3-EU</vendorCode>\n    <vendor>EcoFlow",
+    "priceText": "184999 UAH",
+    "picture": "https://b2b.robotics-distribution.com/content/images/41/54864415172774_+dc07017422.png",
     "available": true
   }
 ]
