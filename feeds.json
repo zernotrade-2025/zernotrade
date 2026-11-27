@@ -1,96 +1,5 @@
 [
   {
-    "name": "Зарядний пристрій EcoFlow RAPID Pro Charger 100W",
-    "vendor": "EcoFlow",
-    "priceText": "1967,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/b25c8412-07eb-11f1-80ae-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Смартфон RugOne Xever 8 Black (128Gb)",
-    "vendor": "RugOne",
-    "priceText": "23999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/125cd4f1-58ef-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee E25 Pro",
-    "vendor": "Navee",
-    "priceText": "14999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/d8943a51-58ec-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee E25 Pro",
-    "vendor": "Navee",
-    "priceText": "14999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/d8943a51-58ec-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Повербанк EcoFlow RAPID Mag Power Bank 5000mAh чорний",
-    "vendor": "EcoFlow",
-    "priceText": "2828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/9a41c699-07eb-11f1-80ae-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Зарядна станція EcoFlow DELTA Lite (Stream Pro)",
-    "vendor": "EcoFlow",
-    "priceText": "52999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/4aaff899-daec-11f0-80ab-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Комплект енергонезалежності Independence Kit ( Power Kits Combo 3 )  (EcoFlow)",
-    "vendor": "EcoFlow",
-    "priceText": "184999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/f7c92ac2-087f-11f1-80ae-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Шина NavRollergy Tire Ultra",
-    "vendor": "Navee",
-    "priceText": "1828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e528c20c-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Шина NavRollergy Tire Ultra",
-    "vendor": "Navee",
-    "priceText": "1828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e528c20c-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-25kW-DE",
-    "vendor": "EcoFlow",
-    "priceText": "262999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/f7c92b2c-087f-11f1-80ae-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 Classic",
-    "vendor": "EcoFlow",
-    "priceText": "39999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/13cf9eb1-5f1f-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Акумуляторна батарея до кондиціонера EcoFlow Wave 3",
-    "vendor": "EcoFlow",
-    "priceText": "28999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/3395efc3-aff1-11f0-80a6-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Екзоскелет Hypershell X GO",
-    "vendor": "Hypershell",
-    "priceText": "37999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/652bb5cb-5901-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
     "name": "Холодильник EcoFlow Glacier Classic 35L",
     "vendor": "EcoFlow",
     "priceText": "42999,00 UAH",
@@ -315,6 +224,97 @@
     "available": true
   },
   {
+    "name": "Зарядний пристрій EcoFlow RAPID Pro Charger 100W",
+    "vendor": "EcoFlow",
+    "priceText": "1967,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/b25c8412-07eb-11f1-80ae-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Смартфон RugOne Xever 8 Black (128Gb)",
+    "vendor": "RugOne",
+    "priceText": "23999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/125cd4f1-58ef-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee E25 Pro",
+    "vendor": "Navee",
+    "priceText": "14999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d8943a51-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee E25 Pro",
+    "vendor": "Navee",
+    "priceText": "14999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/d8943a51-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Повербанк EcoFlow RAPID Mag Power Bank 5000mAh чорний",
+    "vendor": "EcoFlow",
+    "priceText": "2828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/9a41c699-07eb-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція EcoFlow DELTA Lite (Stream Pro)",
+    "vendor": "EcoFlow",
+    "priceText": "52999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/4aaff899-daec-11f0-80ab-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Комплект енергонезалежності Independence Kit ( Power Kits Combo 3 )  (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "184999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/f7c92ac2-087f-11f1-80ae-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шина NavRollergy Tire Ultra",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c20c-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шина NavRollergy Tire Ultra",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c20c-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Інвертор гібридний EcoFlow PowerOcean Plus Hybrid Inverter-P3-25kW-DE",
+    "vendor": "EcoFlow",
+    "priceText": "262999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/f7c92b2c-087f-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Зарядна портативна електростанція EcoFlow DELTA 3 Classic",
+    "vendor": "EcoFlow",
+    "priceText": "39999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/13cf9eb1-5f1f-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Акумуляторна батарея до кондиціонера EcoFlow Wave 3",
+    "vendor": "EcoFlow",
+    "priceText": "28999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/3395efc3-aff1-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X GO",
+    "vendor": "Hypershell",
+    "priceText": "37999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/652bb5cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
     "name": "Електросамокат Navee NT5 Max",
     "vendor": "Navee",
     "priceText": "33999,00 UAH",
@@ -417,6 +417,139 @@
     "vendor": "EcoFlow",
     "priceText": "269999,00 UAH",
     "picture": "https://storage.googleapis.com/dr_bckt/05e324fc-0880-11f1-80ae-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Сидіння для скутера NAVEE Scooter Seat（GT/ST）",
+    "vendor": "Navee",
+    "priceText": "6094,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c17e-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сидіння для скутера NAVEE Scooter Seat（GT/ST）",
+    "vendor": "Navee",
+    "priceText": "6094,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e528c17e-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Розумна розетка EcoFlow Smart Plug EU ( EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "2213,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cb52728f-5f1f-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Комплект AeroFlex Kit- Nylon",
+    "vendor": "Hypershell",
+    "priceText": "6466,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/2ef66aa7-59c6-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X Ultra",
+    "vendor": "Hypershell",
+    "priceText": "80999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c3190cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Екзоскелет Hypershell X Ultra",
+    "vendor": "Hypershell",
+    "priceText": "80999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c3190cb-5901-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Мікроінвертор EcoFlow Stream 2",
+    "vendor": "EcoFlow",
+    "priceText": "9999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/f9320bd9-afec-11f0-80a6-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee G5 Pro",
+    "vendor": "Navee",
+    "priceText": "21999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cf4d67f9-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee G5 Pro",
+    "vendor": "Navee",
+    "priceText": "21999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/cf4d67f9-58ec-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Зарядна станція EcoFlow DELTA 3 Max",
+    "vendor": "EcoFlow",
+    "priceText": "79999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/1b763c35-d56c-11f0-80aa-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Сонячна панель JW-HD108N 500W",
+    "vendor": "JOLYWOOD",
+    "priceText": "5300,00 UAH",
+    "picture": "",
+    "available": true
+  },
+  {
+    "name": "Автомобільна зарядна станція EcoFlow Alternator Charger",
+    "vendor": "EcoFlow",
+    "priceText": "10999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/3a7665ce-afe6-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Кабель для зєднання EcoFlow STREAM Parallel Cable",
+    "vendor": "EcoFlow",
+    "priceText": "1045,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/29489c82-5f2b-11f1-80b8-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Літій-іонний акумулятор  Power Kits Battery 5120Wh - (EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "233999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/dae33e1a-b0d8-11f0-80a6-0050568715c8.jpg",
+    "available": true
+  },
+  {
+    "name": "Шолом Scooter Helmet (L)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fee97-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Шолом Scooter Helmet (L)",
+    "vendor": "Navee",
+    "priceText": "1828,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/6c1fee97-58ee-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Pro",
+    "vendor": "Navee",
+    "priceText": "24999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Електросамокат Navee GT5 Pro",
+    "vendor": "Navee",
+    "priceText": "24999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
+    "available": true
+  },
+  {
+    "name": "Літій-іонний акумулятор Portable Air Conditioner-WAVE 2 Battery Pack(EcoFlow)",
+    "vendor": "EcoFlow",
+    "priceText": "55999,00 UAH",
+    "picture": "https://storage.googleapis.com/dr_bckt/e52ab139-aff1-11f0-80a6-0050568715c8.png",
     "available": true
   },
   {
@@ -557,132 +690,6 @@
     "vendor": "Hypershell",
     "priceText": "58999,00 UAH",
     "picture": "https://storage.googleapis.com/dr_bckt/5e4c0145-5901-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Сидіння для скутера NAVEE Scooter Seat（GT/ST）",
-    "vendor": "Navee",
-    "priceText": "6094,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e528c17e-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Сидіння для скутера NAVEE Scooter Seat（GT/ST）",
-    "vendor": "Navee",
-    "priceText": "6094,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e528c17e-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Розумна розетка EcoFlow Smart Plug EU ( EcoFlow)",
-    "vendor": "EcoFlow",
-    "priceText": "2213,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/cb52728f-5f1f-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Комплект AeroFlex Kit- Nylon",
-    "vendor": "Hypershell",
-    "priceText": "6466,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/2ef66aa7-59c6-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Екзоскелет Hypershell X Ultra",
-    "vendor": "Hypershell",
-    "priceText": "80999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/6c3190cb-5901-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Екзоскелет Hypershell X Ultra",
-    "vendor": "Hypershell",
-    "priceText": "80999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/6c3190cb-5901-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Мікроінвертор EcoFlow Stream 2",
-    "vendor": "EcoFlow",
-    "priceText": "9999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/f9320bd9-afec-11f0-80a6-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee G5 Pro",
-    "vendor": "Navee",
-    "priceText": "21999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/cf4d67f9-58ec-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee G5 Pro",
-    "vendor": "Navee",
-    "priceText": "21999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/cf4d67f9-58ec-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Сонячна панель JW-HD108N 500W",
-    "vendor": "JOLYWOOD",
-    "priceText": "5300,00 UAH",
-    "picture": "",
-    "available": true
-  },
-  {
-    "name": "Автомобільна зарядна станція EcoFlow Alternator Charger",
-    "vendor": "EcoFlow",
-    "priceText": "10999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/3a7665ce-afe6-11f0-80a6-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Кабель для зєднання EcoFlow STREAM Parallel Cable",
-    "vendor": "EcoFlow",
-    "priceText": "1045,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/29489c82-5f2b-11f1-80b8-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Літій-іонний акумулятор  Power Kits Battery 5120Wh - (EcoFlow)",
-    "vendor": "EcoFlow",
-    "priceText": "233999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/dae33e1a-b0d8-11f0-80a6-0050568715c8.jpg",
-    "available": true
-  },
-  {
-    "name": "Шолом Scooter Helmet (L)",
-    "vendor": "Navee",
-    "priceText": "1828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/6c1fee97-58ee-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Шолом Scooter Helmet (L)",
-    "vendor": "Navee",
-    "priceText": "1828,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/6c1fee97-58ee-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee GT5 Pro",
-    "vendor": "Navee",
-    "priceText": "24999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Електросамокат Navee GT5 Pro",
-    "vendor": "Navee",
-    "priceText": "24999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/24becc8b-58ed-11f1-80b8-0050568715c8.png",
-    "available": true
-  },
-  {
-    "name": "Літій-іонний акумулятор Portable Air Conditioner-WAVE 2 Battery Pack(EcoFlow)",
-    "vendor": "EcoFlow",
-    "priceText": "55999,00 UAH",
-    "picture": "https://storage.googleapis.com/dr_bckt/e52ab139-aff1-11f0-80a6-0050568715c8.png",
     "available": true
   },
   {
@@ -830,13 +837,6 @@
     "vendor": "BDELTAmini-US</vendorCode>\n    <vendor>EcoFlow",
     "priceText": "3627 UAH",
     "picture": "https://b2b.robotics-distribution.com/content/images/14/20906043721691_+631c4c3f40.png",
-    "available": true
-  },
-  {
-    "name": "<![CDATA[Кабель EcoFlow DELTA Pro-4-8 Double handle connection 0.75m]]>",
-    "vendor": "L48DH-0.75m</vendorCode>\n    <vendor>EcoFlow",
-    "priceText": "6701 UAH",
-    "picture": "https://b2b.robotics-distribution.com/content/images/17/kabel-ecoflow-delta-pro-4-8-double-handle-connection-0.75m-69696369307707_+53f56acc87.png",
     "available": true
   }
 ]
